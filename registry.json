@@ -1,0 +1,12 @@
+[
+  {
+    "id":"iot-edge",
+    "description":"IoT Edge Base Services",
+    "categories":"internal,server"
+  },
+  {
+    "id":"iot-edge-cam",
+    "description":"Camera Devices",
+    "categories":"device,camera"
+  }
+]
